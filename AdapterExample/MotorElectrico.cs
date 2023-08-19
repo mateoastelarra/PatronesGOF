@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Adapter
+namespace AdapterExample
 {
     public class MotorElectrico
     {
@@ -20,7 +20,7 @@ namespace Adapter
             else
             {
                 conectado = true;
-                Console.WriteLine("Motor conectado..")
+                Console.WriteLine("Motor conectado..");
             }
 
         }
@@ -60,7 +60,7 @@ namespace Adapter
             }
             else
             {
-                Console.Writeline("No se puede parar un auto que no está en movimiento...");
+                Console.WriteLine("No se puede parar un auto que no está en movimiento...");
             }
         }
 
@@ -73,7 +73,7 @@ namespace Adapter
             }
             else
             {
-                Console.Writeline("No se puede desconectar un motor que no está conectado...");
+                Console.WriteLine("No se puede desconectar un motor que no está conectado...");
             }
         }
 
@@ -82,7 +82,7 @@ namespace Adapter
             if (activo)
             {
                 activo = false;
-                Console.WriteLines("Desactivando el vehículo con motor eléctrico...");
+                Console.WriteLine("Desactivando el vehículo con motor eléctrico...");
             }
             else
             {
@@ -92,13 +92,13 @@ namespace Adapter
 
         public void Cargar()
         {
-            if (!activo && !conectado)
+            if (!activo)
             {
                 Console.WriteLine("Se está cargando el motor eléctrico...");
             }
             else
             {
-                Console.Writeline("No se puede cargar el motor eléctrico porqué está activo o conectado...");
+                Console.WriteLine("No se puede cargar el motor eléctrico porqué está activo...");
             }
         }
     }

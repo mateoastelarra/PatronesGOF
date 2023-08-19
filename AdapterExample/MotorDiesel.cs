@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Adapter
+namespace AdapterExample
 {
     public class MotorDiesel : Motor
     {
@@ -22,7 +22,7 @@ namespace Adapter
             Console.WriteLine("Parando el motor diesel...");
         }
 
-        public override void CargarCOmbustible()
+        public override void CargarCombustible()
         {
             Console.WriteLine("Cargando combustible en el motor diesel...");
         }

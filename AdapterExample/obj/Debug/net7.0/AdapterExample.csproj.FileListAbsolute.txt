@@ -1,0 +1,15 @@
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.AssemblyInfoInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.AssemblyInfo.cs
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\bin\Debug\net7.0\AdapterExample.exe
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\bin\Debug\net7.0\AdapterExample.deps.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\bin\Debug\net7.0\AdapterExample.runtimeconfig.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\bin\Debug\net7.0\AdapterExample.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\bin\Debug\net7.0\AdapterExample.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\refint\AdapterExample.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\AdapterExample.genruntimeconfig.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\AdapterExample\obj\Debug\net7.0\ref\AdapterExample.dll

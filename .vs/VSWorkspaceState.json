@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Adapter",
+    "\\AdapterExample"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\Adapter\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,9 +1,9 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Adapter
+namespace AdapterExample
 {
     public class Program
     {
@@ -13,19 +13,19 @@ namespace Adapter
             motor1.Arrancar();
             motor1.Acelerar();
             motor1.Parar();
-            motor1.CargarCOmbustible();
+            motor1.CargarCombustible();
 
             Motor motor2 = new MotorDiesel();
             motor2.Arrancar();
             motor2.Acelerar();
             motor2.Parar();
-            motor2.CargarCOmbustible();
+            motor2.CargarCombustible();
 
             Motor motor3 = new MotorElectricoAdapter();
             motor3.Arrancar();
             motor3.Acelerar();
             motor3.Parar();
-            motor3.CargarCOmbustible();
+            motor3.CargarCombustible();
         }
     }
 }

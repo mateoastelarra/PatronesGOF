@@ -26,6 +26,8 @@ namespace AdapterExample
             motor3.Acelerar();
             motor3.Parar();
             motor3.CargarCombustible();
+
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Decorator\obj\Debug\net7.0\ref\Decorator.dll

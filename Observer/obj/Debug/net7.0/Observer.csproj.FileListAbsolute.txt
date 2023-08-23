@@ -1,0 +1,15 @@
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.AssemblyInfoInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.AssemblyInfo.cs
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\bin\Debug\net7.0\Observer.exe
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\bin\Debug\net7.0\Observer.deps.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\bin\Debug\net7.0\Observer.runtimeconfig.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\bin\Debug\net7.0\Observer.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\bin\Debug\net7.0\Observer.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\refint\Observer.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\Observer.genruntimeconfig.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Observer\obj\Debug\net7.0\ref\Observer.dll

@@ -1,0 +1,15 @@
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\bin\Debug\net7.0\ChainOfResponsability.exe
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\bin\Debug\net7.0\ChainOfResponsability.deps.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\bin\Debug\net7.0\ChainOfResponsability.runtimeconfig.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\bin\Debug\net7.0\ChainOfResponsability.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\bin\Debug\net7.0\ChainOfResponsability.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.AssemblyInfo.cs
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\refint\ChainOfResponsability.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ChainOfResponsability.genruntimeconfig.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\ChainOfResponsability\obj\Debug\net7.0\ref\ChainOfResponsability.dll

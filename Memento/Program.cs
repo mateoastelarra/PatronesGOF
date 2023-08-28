@@ -35,11 +35,6 @@ namespace Memento
 
             person.RestoreToMemento(careTaker.GetMemento(0));
 
-
-
-
-
-
         }
     }
 }

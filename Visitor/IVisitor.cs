@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Visitor
+{
+    public interface IVisitor
+    {
+        void Visit(MotherBoard component);
+
+        void Visit(Processor component);
+
+        void Visit(SolidStateDisk component);
+    }
+}

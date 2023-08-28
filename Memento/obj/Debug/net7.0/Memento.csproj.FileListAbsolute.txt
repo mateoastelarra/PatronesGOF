@@ -1,0 +1,15 @@
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\bin\Debug\net7.0\Memento.exe
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\bin\Debug\net7.0\Memento.deps.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\bin\Debug\net7.0\Memento.runtimeconfig.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\bin\Debug\net7.0\Memento.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\bin\Debug\net7.0\Memento.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.AssemblyInfoInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.AssemblyInfo.cs
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\refint\Memento.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\Memento.genruntimeconfig.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Memento\obj\Debug\net7.0\ref\Memento.dll

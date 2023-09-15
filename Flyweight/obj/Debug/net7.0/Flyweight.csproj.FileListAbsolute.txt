@@ -1,0 +1,15 @@
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\bin\Debug\net7.0\Flyweight.exe
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\bin\Debug\net7.0\Flyweight.deps.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\bin\Debug\net7.0\Flyweight.runtimeconfig.json
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\bin\Debug\net7.0\Flyweight.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\bin\Debug\net7.0\Flyweight.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfo.cs
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\refint\Flyweight.dll
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.pdb
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\Flyweight.genruntimeconfig.cache
+C:\Users\Ryzen\OneDrive\Documentos\Programacion\PatronesGOF\Flyweight\obj\Debug\net7.0\ref\Flyweight.dll
